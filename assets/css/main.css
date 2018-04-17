@@ -1,0 +1,37 @@
+.navbar-nav > li{
+	margin-left: 22px;
+}
+.navbar-nav a:hover{
+	background-color: #0073e6;
+	color: #ffffff;
+	border-radius: 4px;
+}
+.navbar-nav{
+	margin-left: 50px;
+}
+.navbar{
+	background-color: #ffffff;
+	-webkit-box-shadow: 0px 2px 20px 4px rgba(145,145,145,0.53);
+	-moz-box-shadow: 0px 2px 20px 4px rgba(145,145,145,0.53);
+	box-shadow: 0px 2px 20px 4px rgba(145,145,145,0.53);
+}
+.loginButton{
+	background-color: #0073e6;
+	color: #ffffff;
+}
+.loginButtonHover a:hover{
+	color: #ffffff;
+}
+.jumbotron{
+	border-radius: 0px;
+	background-color: #0066cc;
+	color: #ffffff;
+}
+.jumbotron hr{
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #fff;
+    margin: 1em 0;
+    padding: 0; 
+}
