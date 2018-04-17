@@ -7,9 +7,10 @@
 	<title><?php if($pageName){ echo $pageName; } ?> | Algo Stacks</title>
 	<link rel="shortcut icon" type="image/png" href="assets/images/favicon.png"/>
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
-	<link rel="stylesheet" href="assets/css/fontawesome.min.css" media="all">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:400,700|Open+Sans" rel="stylesheet">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="assets/css/main.css">
-	<link rel="stylesheet" href="assets/css/test.css">
+	<!--<link rel="stylesheet" href="assets/css/test.css">-->
 </head>
 
 <body>
