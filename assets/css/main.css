@@ -26,6 +26,7 @@
 	border-radius: 0px;
 	background-color: #0066cc;
 	color: #ffffff;
+	/*margin-bottom: 0px;*/
 }
 .jumbotron hr{
     display: block;
