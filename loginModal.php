@@ -12,14 +12,15 @@
                                     <label for="email" class="form-label e-mail">Email or Phone</label>
                                     <input type="email" class="form-control inputSize" id="email" >
                                 </div>
-                                <div class="col-md-3">
-                                    <label for="passwrd" class="form-label passwrd">Password</label>
-                                    <input type="text" class="form-control inputSize" id="xpasswrd" >
-                                </div>
+                                
                                 <div href="#" class="btn btn-info btn-sm" role="button">
                                     <button type="button" class="btn btn-info">Login</button>
                                 </div>
                             </div>
+                            <div class="col-md-3">
+                                    <label for="passwrd" class="form-label passwrd">Password</label>
+                                    <input type="text" class="form-control inputSize" id="xpasswrd" >
+                                </div>
                             </form> 
                         </div>
                     </div>
