@@ -19,6 +19,6 @@
         <a class="nav-link" href="#">Contact</a>
       </li>
 	  </ul>
-      <span class="loginButtonHover"><a href="#" class="btn btn-default loginButton">Login</a></span>
+      <span class="loginButtonHover"><a href="#" data-toggle="modal" data-target="#loginModal" class="btn btn-default loginButton">Login</a></span>
   </div>
 </nav>
